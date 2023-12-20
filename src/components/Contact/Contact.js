@@ -28,7 +28,7 @@ function Contact() {
                 <span>US</span>
               </div>
               <div className="app-contact">
-                CONTACT INFO : +62 81 314 928 595
+                CONTACT INFO : +84916339781
               </div>
             </div>
             <div className="screen-body-item">
@@ -37,7 +37,7 @@ function Contact() {
                   <input
                     className="app-form-control"
                     placeholder="NAME"
-                    value="Krisantus Wanandi"
+                    value="Nguyen Minh Quang"
                   />
                 </div>
                 <div className="app-form-group">

@@ -11,11 +11,7 @@ function Footer() {
                 u<span>Stora</span>
               </h2>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                Perferendis sunt id doloribus vero quam laborum quas alias
-                dolores blanditiis iusto consequatur, modi aliquid eveniet
-                eligendi iure eaque ipsam iste, pariatur omnis sint! Suscipit,
-                debitis, quisquam. Laborum commodi veritatis magni at?
+              It is very important that customers pay attention to the absorption process. Indeed, they must endure this with pains, not those other pains caused by mere caress, if anything happens to choose the right and this, Let all be equal! Acceptance, debt, anyone. But the benefit of great truth?
               </p>
               <div className="footer-social">
                 <a href="a" target="_blank">
@@ -101,7 +97,7 @@ function Footer() {
             <div className="col-md-8">
               <div className="copyright">
                 <p>
-                  &copy; 2015 uCommerce. All Rights Reserved.
+                  
                   <a href="a" target="_blank">
                     freshDesignweb.com
                   </a>
